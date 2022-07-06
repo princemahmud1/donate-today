@@ -17,6 +17,17 @@ button {
     border: none;
 }
 
+.defult-heading {
+    color: #121212;
+    font-size: 38px;
+    font-weight: 900;
+}
+
+.defult-p {
+    margin: 20px 60px;
+}
+
+/*--------------------Banner Section-------------------*/
 .banner {
     background: linear-gradient(rgba(0, 0, 0, 0.3), rgba(0, 0, 0, 0.9)), url(images/donation10.jpg);
     padding: 220px 0;
@@ -35,6 +46,50 @@ button {
     font-size: 54px;
 }
 
-.banner-text p {
-    margin: 20px 60px;
+/*---------------------Donate Collect------------------*/
+.donate-collect {
+    padding: 80px 0;
+    width: 60%;
+    margin: auto;
+    text-align: center;
+}
+
+.donate-collect p {
+    margin: 30px 0;
+    color: #797979;
+}
+
+.donate-quantity {
+    display: flex;
+    justify-content: center;
+}
+
+.donate-quantity span {
+    background-color: #fafafa;
+    margin: 20px 10px;
+    color: #707070;
+    width: 130px;
+    height: 110px;
+}
+
+.donate-quantity h2 {
+    margin-top: 40px;
+    font-size: 29px;
+}
+
+.active {
+    background-color: #ffeeee !important;
+    color: #ff5959 !important;
+    border-radius: 5px;
+    border: 2px solid #ff5959;
+}
+
+.donate-collect h6 {
+    color: #b3b3b3;
+    font-size: 18px;
+    font-weight: 100;
+    margin-top: 36px;
+    padding-bottom: 14px;
+    border-bottom: 1px solid #dadada;
+    margin-bottom: 30px;
 }
