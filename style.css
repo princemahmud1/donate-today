@@ -93,3 +93,59 @@ button {
     border-bottom: 1px solid #dadada;
     margin-bottom: 30px;
 }
+
+/*----------------------Donate Plane----------------------*/
+.donate-plane {
+    padding: 80px 0;
+}
+
+.donate-plane h1 {
+    text-align: center;
+}
+
+.donate-plane .wd-60 {
+    text-align: center;
+    margin: 15px 260px 50px;
+    font-size: 18px;
+    color: #939393;
+}
+
+.donate-planebox {
+    display: flex;
+    width: 1200px;
+    margin: auto;
+}
+
+.box-1 {
+    background-color: #edf5f6;
+    width: 33%;
+    margin-right: 20px;
+    padding: 50px 25px;
+    border-radius: 5px;
+}
+
+.box-2 {
+    background-color: #ffeeee;
+    width: 33%;
+    margin-left: 10px;
+    margin-right: 10px;
+    padding: 50px 25px;
+    border-radius: 5px;
+}
+
+.box-3 {
+    background-color: #fff4d6;
+    width: 33%;
+    margin-left: 20px;
+    padding: 50px 25px;
+    border-radius: 5px;
+}
+
+.donate-planebox h1 {
+    text-align: left;
+    margin: 20px 0;
+}
+
+.donate-planebox p {
+    color: #808080;
+}
