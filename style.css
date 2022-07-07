@@ -192,3 +192,62 @@ button {
 .about-photo img {
     border-radius: 15px;
 }
+
+/*--------------------Subscribe Section---------------------*/
+.subscribe {
+    padding: 80px 0;
+}
+
+.subscribe-details h1 {
+    text-align: center;
+    font-size: 40px;
+    font-weight: 900;
+    margin-bottom: 28px;
+}
+
+.subscribe-details p {
+    text-align: center;
+    color: #707070;
+    margin: 0px 276px 45px;
+}
+
+.subscribe-button {
+    text-align: center;
+    padding: 70px 25px;
+    background-color: #fff4d6;
+    border-radius: 6px;
+    width: 762px;
+    margin: auto;
+}
+
+#email {
+    padding: 16px 85px 16px 15px;
+    font-size: 16px;
+    font-weight: 600;
+    color: #aa9f9f;
+    background-color: #d9d9d9;
+    border: none;
+    border-radius: 6px 0 0 6px;
+}
+
+#button {
+    margin-left: -4px;
+    border-radius: 2px 5px 5px 2px;
+}
+
+/*---------------------Footer Section-----------------------*/
+.footer {
+    background-color: #000;
+    padding: 30px 0;
+}
+
+.footer p {
+    text-align: center;
+    color: whitesmoke;
+}
+
+.footer a {
+    color: white;
+    font-weight: bold;
+    text-decoration: none;
+}
